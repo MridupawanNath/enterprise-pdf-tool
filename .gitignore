@@ -1,0 +1,11 @@
+__pycache__/
+*.py[cod]
+*$py.class
+venv/
+.env
+
+# Docker
+.docker/
+
+# Local Data
+mongodb_data/

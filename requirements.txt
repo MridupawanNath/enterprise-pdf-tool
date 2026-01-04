@@ -1,0 +1,7 @@
+streamlit
+unstructured[pdf]
+chromadb
+pymongo
+python-magic
+# Add this if you still get errors
+pi-heif
