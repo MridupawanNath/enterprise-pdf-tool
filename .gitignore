@@ -7,5 +7,6 @@ venv/
 # Docker
 .docker/
 
-# Local Data
-mongodb_data/
+# Local PDF data
+data/
+*.pdfmongodb_data/
